@@ -1,0 +1,4 @@
+ctr -n k8s.io containers list
+
+ctr -n k8s.io tasks kill abf699be7506cd7f1b3768575b663141fea36964017e2a0554481b4e27c40206
+
